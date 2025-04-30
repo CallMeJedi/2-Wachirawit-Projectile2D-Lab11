@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2778064399974277050}
   - component: {fileID: 1562176722179310118}
   - component: {fileID: 8282529532627904657}
-  - component: {fileID: 6024572426897890324}
+  - component: {fileID: 52158766564178713}
   m_Layer: 0
   m_Name: Arrow
   m_TagString: Untagged
@@ -116,7 +116,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!70 &6024572426897890324
+--- !u!70 &52158766564178713
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -150,6 +150,6 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0, y: 0.175}
-  m_Size: {x: 0.8, y: 0.39}
+  m_Offset: {x: -0.01, y: 0.175}
+  m_Size: {x: 0.9, y: 0.4}
   m_Direction: 1
